@@ -5,6 +5,8 @@
 // @author       Xelminoe
 // @match        https://www.geocaching.com/geocache/*
 // @grant        none
+// @updateURL    https://raw.github.com/Xelminoe/Geocache-Baidu-Jumper/main/Geocache-Baidu-Jumper.user.js
+// @downloadURL  https://raw.github.com/Xelminoe/Geocache-Baidu-Jumper/main/Geocache-Baidu-Jumper.user.js
 // ==/UserScript==
 
 (function () {
